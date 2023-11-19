@@ -1,9 +1,10 @@
-export const flatten = (arr: any): any[] =>
-  Array.isArray(arr) ? arr.flat(1) : [];
-export const flattenDeep = (arr: any): any[] =>
-  Array.isArray(arr) ? arr.flat(Infinity) : [arr];
 
-// export const merge = () => null
+export const flatten = (arr: any): any[] => { 
+  if (typeof arr === 'undefined') return []
+  return Array.isArray(arr) ? arr.flat(1) : [arr];
+}
 
-const omit = () => null;
-const omitBy = () => null;
+export const flattenDeep = (arr: any): any[] => { 
+  if (typeof arr === 'undefined') return []
+  return Array.isArray(arr) ? arr.flat(Infinity) : [arr];
+}

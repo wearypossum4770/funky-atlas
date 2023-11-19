@@ -22,6 +22,9 @@ describe("Shallow flatten method", () => {
 
 describe('Deep flatten method', () => {
    test.each([
+    [1, [1]],
+    [null, [null]],
+    [undefined, []],
     [
       [
         [1, 2, 3],
