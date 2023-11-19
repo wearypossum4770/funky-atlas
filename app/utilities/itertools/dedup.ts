@@ -5,4 +5,4 @@
  */
 export const dedup = <T>(arr: T[]): T[] => [...dedupSet(arr)];
 
-const dedupSet = <T>(arr: T[]): Set<T> => new Set(arr);
+export const dedupSet = <T>(arr: T[]): Set<T> => new Set(arr);
