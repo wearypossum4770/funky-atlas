@@ -1,0 +1,32 @@
+[
+  {
+    "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+    "author": [{ "firstName": "Bjarne", "lastName": "Stroustrup" }]
+  },
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": [{ "firstName": "Martin", "lastName": "Fowler" }]
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": [{ "firstName": "John", "lastName": "Johnson" }]
+  },
+  {
+    "quote": "Java is to JavaScript what car is to Carpet.",
+    "author": [{ "firstName": "Chris", "lastName": "Heilmann" }]
+  },
+  {
+    "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": [{ "firstName": "John", "lastName": "Woods" }]
+  },
+  {
+    "quote": "Truth can only be found in one place: the code.",
+    "author": [
+      { "firstName": "Robert", "middleName": "C", "lastName": "Martin" }
+    ]
+  },
+  {
+    "quote": "SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.",
+    "author": [{ "firstName": "Philip", "lastName": "Greenspun" }]
+  }
+]
