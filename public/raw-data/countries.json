@@ -1,0 +1,2551 @@
+[
+  {
+    "shortName": "Installations in International Waters",
+    "alphaCode2": "XZ",
+    "status": "united_nations_assigned"
+  },
+  { "shortName": "", "alphaCode2": "UH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UK", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "UL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UN", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "UO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VB", "status": "Unassigned" },
+  {
+    "shortName": "Viet-Nam, Democratic Republic of",
+    "alphaCode2": "VD",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "VD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VM", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "VZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WG", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "WH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WJ", "status": "Unassigned" },
+  { "shortName": "Wake Island", "alphaCode2": "WK", "status": "Formerly used" },
+  { "shortName": "", "alphaCode2": "WK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WL", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "WM", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WO", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "WP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WV", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "WW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "WZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YD", "status": "Unassigned" },
+  {
+    "shortName": "Yemen, Democratic",
+    "alphaCode2": "YD",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "YF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YM", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YS", "status": "Unassigned" },
+  {
+    "shortName": "Yugoslavia",
+    "alphaCode2": "YU",
+    "status": "Transitionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "YV", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "YW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "YZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZQ", "status": "Unassigned" },
+  {
+    "shortName": "Zaire",
+    "alphaCode2": "ZR",
+    "status": "Transitionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "ZS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ZY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "AB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "AC", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "AH", "status": "Unassigned" },
+  {
+    "shortName": "French Afars and Issas",
+    "alphaCode2": "AI",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "AJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "AK", "status": "Unassigned" },
+  {
+    "shortName": "Netherlands Antilles",
+    "alphaCode2": "AN",
+    "status": "Transitionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "AP", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "AV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "AY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "BC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "BK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "BP", "status": "Unassigned" },
+  {
+    "shortName": "British Antarctic Territory",
+    "alphaCode2": "BQ",
+    "status": "Formerly used"
+  },
+  {
+    "shortName": "Burma",
+    "alphaCode2": "BU",
+    "status": "Transitionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "BX", "status": "Indeterminately reserved" },
+  {
+    "shortName": "Byelorussian SSR",
+    "alphaCode2": "BY",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "CB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "CE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "CJ", "status": "Unassigned" },
+  { "shortName": "Clipperton Island", "alphaCode2": "CP", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "CQ", "status": "Exceptionally reserved" },
+  {
+    "shortName": "Serbia and Montenegro",
+    "alphaCode2": "CS",
+    "status": "Transitionally reserved"
+  },
+  {
+    "shortName": "Czechoslovakia",
+    "alphaCode2": "CS",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "CT", "status": "Unassigned" },
+  {
+    "shortName": "Canton and Enderbury Islands",
+    "alphaCode2": "CT",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "DA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DD", "status": "Unassigned" },
+  {
+    "shortName": "German Democratic Republic",
+    "alphaCode2": "DD",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "DF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DG", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "DH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "DX", "status": "Unassigned" },
+  { "shortName": "Dahomey", "alphaCode2": "DY", "status": "Formerly used" },
+  { "shortName": "", "alphaCode2": "DY", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "EA", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "EB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ED", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EF", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "EI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EM", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "EN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EP", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "EQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EU", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "EV", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "EW", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "EX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "EZ", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "FA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FL", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "FN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FP", "status": "Unassigned" },
+  {
+    "shortName": "French Southern and Antarctic Territories",
+    "alphaCode2": "FQ",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "FQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FW", "status": "Unassigned" },
+  {
+    "shortName": "France, Metropolitan",
+    "alphaCode2": "FX",
+    "status": "Exceptionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "FY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "FZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "GC", "status": "Indeterminately reserved" },
+  {
+    "shortName": "Gilbert and Ellice Islands",
+    "alphaCode2": "GE",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "GJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "GK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "GO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "GV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "GX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "GZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HS", "status": "Unassigned" },
+  { "shortName": "Upper Volta", "alphaCode2": "HV", "status": "Formerly used" },
+  { "shortName": "", "alphaCode2": "HV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "HZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IB", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "IC", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "IF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "II", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "IZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JA", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "JB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JS", "status": "Unassigned" },
+  {
+    "shortName": "Johnston Island",
+    "alphaCode2": "JT",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "JT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "JZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KA", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "KX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LF", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "LG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LM", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LN", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "LZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "MB", "status": "Unassigned" },
+  {
+    "shortName": "Midway Islands",
+    "alphaCode2": "MI",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "MI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "MJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ND", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NH", "status": "Unassigned" },
+  {
+    "shortName": "New Hebrides",
+    "alphaCode2": "NH",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "NJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NM", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NN", "status": "Unassigned" },
+  {
+    "shortName": "Dronning Maud Land",
+    "alphaCode2": "NQ",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "NQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NS", "status": "Unassigned" },
+  {
+    "shortName": "Neutral Zone",
+    "alphaCode2": "NT",
+    "status": "Transitionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "NV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "NY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OA", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "OB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "ON", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "OZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PC", "status": "Unassigned" },
+  {
+    "shortName": "Pacific Islands (Trust Territory)",
+    "alphaCode2": "PC",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "PD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PI", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "PJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PO", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PU", "status": "Unassigned" },
+  {
+    "shortName": "United States Miscellaneous Pacific Islands",
+    "alphaCode2": "PU",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "PV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "PX", "status": "Unassigned" },
+  {
+    "shortName": "Panama Canal Zone",
+    "alphaCode2": "PZ",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "PZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QG", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QH", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QI", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "QL", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RA", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RB", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RC", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RF", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RG", "status": "Unassigned" },
+  {
+    "shortName": "Southern Rhodesia",
+    "alphaCode2": "RH",
+    "status": "Formerly used"
+  },
+  { "shortName": "", "alphaCode2": "RH", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RI", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RJ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RK", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RL", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RM", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RN", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RP", "status": "Indeterminately reserved" },
+  { "shortName": "", "alphaCode2": "RQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RR", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RT", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RV", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "RZ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "SF", "status": "Indeterminately reserved" },
+  { "shortName": "Sikkim", "alphaCode2": "SK", "status": "Formerly used" },
+  { "shortName": "", "alphaCode2": "SP", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "SQ", "status": "Unassigned" },
+  {
+    "shortName": "USSR",
+    "alphaCode2": "SU",
+    "status": "Exceptionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "SW", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TA", "status": "Exceptionally reserved" },
+  { "shortName": "", "alphaCode2": "TB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TI", "status": "Unassigned" },
+  {
+    "shortName": "East Timor",
+    "alphaCode2": "TP",
+    "status": "Transitionally reserved"
+  },
+  { "shortName": "", "alphaCode2": "TQ", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TS", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TU", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TX", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "TY", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UB", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UC", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UD", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UE", "status": "Unassigned" },
+  { "shortName": "", "alphaCode2": "UF", "status": "Unassigned" },
+  {
+    "shortName": "English short name",
+    "frenchName": "French short name",
+    "alphaCode2": "Alpha-2 code",
+    "alphaCode3": "Alpha-3 code",
+    "numericCode": "Numeric",
+    "id": 1
+  },
+  {
+    "shortName": "Afghanistan",
+    "frenchName": "Afghanistan (l')",
+    "alphaCode2": "AF",
+    "alphaCode3": "AFG",
+    "numericCode": "004",
+    "id": 2
+  },
+  {
+    "shortName": "Albania",
+    "frenchName": "Albanie (l')",
+    "alphaCode2": "AL",
+    "alphaCode3": "ALB",
+    "numericCode": "008",
+    "id": 3
+  },
+  {
+    "shortName": "Algeria",
+    "frenchName": "Algérie (l')",
+    "alphaCode2": "DZ",
+    "alphaCode3": "DZA",
+    "numericCode": "012",
+    "id": 4
+  },
+  {
+    "shortName": "American Samoa",
+    "frenchName": "Samoa américaines (les)",
+    "alphaCode2": "AS",
+    "alphaCode3": "ASM",
+    "numericCode": "016",
+    "id": 5
+  },
+  {
+    "shortName": "Andorra",
+    "frenchName": "Andorre (l')",
+    "alphaCode2": "AD",
+    "alphaCode3": "AND",
+    "numericCode": "020",
+    "id": 6
+  },
+  {
+    "shortName": "Angola",
+    "frenchName": "Angola (l')",
+    "alphaCode2": "AO",
+    "alphaCode3": "AGO",
+    "numericCode": "024",
+    "id": 7
+  },
+  {
+    "shortName": "Anguilla",
+    "frenchName": "Anguilla",
+    "alphaCode2": "AI",
+    "alphaCode3": "AIA",
+    "numericCode": "660",
+    "id": 8
+  },
+  {
+    "shortName": "Antarctica",
+    "frenchName": "Antarctique (l')",
+    "alphaCode2": "AQ",
+    "alphaCode3": "ATA",
+    "numericCode": "010",
+    "id": 9
+  },
+  {
+    "shortName": "Antigua and Barbuda",
+    "frenchName": "Antigua-et-Barbuda",
+    "alphaCode2": "AG",
+    "alphaCode3": "ATG",
+    "numericCode": "028",
+    "id": 10
+  },
+  {
+    "shortName": "Argentina",
+    "frenchName": "Argentine (l')",
+    "alphaCode2": "AR",
+    "alphaCode3": "ARG",
+    "numericCode": "032",
+    "id": 11
+  },
+  {
+    "shortName": "Armenia",
+    "frenchName": "Arménie (l')",
+    "alphaCode2": "AM",
+    "alphaCode3": "ARM",
+    "numericCode": "051",
+    "id": 12
+  },
+  {
+    "shortName": "Aruba",
+    "frenchName": "Aruba",
+    "alphaCode2": "AW",
+    "alphaCode3": "ABW",
+    "numericCode": "533",
+    "id": 13
+  },
+  {
+    "shortName": "Australia",
+    "frenchName": "Australie (l')",
+    "alphaCode2": "AU",
+    "alphaCode3": "AUS",
+    "numericCode": "036",
+    "id": 14
+  },
+  {
+    "shortName": "Austria",
+    "frenchName": "Autriche (l')",
+    "alphaCode2": "AT",
+    "alphaCode3": "AUT",
+    "numericCode": "040",
+    "id": 15
+  },
+  {
+    "shortName": "Azerbaijan",
+    "frenchName": "Azerbaïdjan (l')",
+    "alphaCode2": "AZ",
+    "alphaCode3": "AZE",
+    "numericCode": "031",
+    "id": 16
+  },
+  {
+    "shortName": "Bahamas (the)",
+    "frenchName": "Bahamas (les)",
+    "alphaCode2": "BS",
+    "alphaCode3": "BHS",
+    "numericCode": "044",
+    "id": 17
+  },
+  {
+    "shortName": "Bahrain",
+    "frenchName": "Bahreïn",
+    "alphaCode2": "BH",
+    "alphaCode3": "BHR",
+    "numericCode": "048",
+    "id": 18
+  },
+  {
+    "shortName": "Bangladesh",
+    "frenchName": "Bangladesh (le)",
+    "alphaCode2": "BD",
+    "alphaCode3": "BGD",
+    "numericCode": "050",
+    "id": 19
+  },
+  {
+    "shortName": "Barbados",
+    "frenchName": "Barbade (la)",
+    "alphaCode2": "BB",
+    "alphaCode3": "BRB",
+    "numericCode": "052",
+    "id": 20
+  },
+  {
+    "shortName": "Belarus",
+    "frenchName": "Bélarus (le)",
+    "alphaCode2": "BY",
+    "alphaCode3": "BLR",
+    "numericCode": "112",
+    "id": 21
+  },
+  {
+    "shortName": "Belgium",
+    "frenchName": "Belgique (la)",
+    "alphaCode2": "BE",
+    "alphaCode3": "BEL",
+    "numericCode": "056",
+    "id": 22
+  },
+  {
+    "shortName": "Belize",
+    "frenchName": "Belize (le)",
+    "alphaCode2": "BZ",
+    "alphaCode3": "BLZ",
+    "numericCode": "084",
+    "id": 23
+  },
+  {
+    "shortName": "Benin",
+    "frenchName": "Bénin (le)",
+    "alphaCode2": "BJ",
+    "alphaCode3": "BEN",
+    "numericCode": "204",
+    "id": 24
+  },
+  {
+    "shortName": "Bermuda",
+    "frenchName": "Bermudes (les)",
+    "alphaCode2": "BM",
+    "alphaCode3": "BMU",
+    "numericCode": "060",
+    "id": 25
+  },
+  {
+    "shortName": "Bhutan",
+    "frenchName": "Bhoutan (le)",
+    "alphaCode2": "BT",
+    "alphaCode3": "BTN",
+    "numericCode": "064",
+    "id": 26
+  },
+  {
+    "shortName": "Bolivia (Plurinational State of)",
+    "frenchName": "Bolivie (État plurinational de)",
+    "alphaCode2": "BO",
+    "alphaCode3": "BOL",
+    "numericCode": "068",
+    "id": 27
+  },
+  {
+    "shortName": "Bonaire, Sint Eustatius and Saba",
+    "frenchName": "Bonaire, Saint-Eustache et Saba",
+    "alphaCode2": "BQ",
+    "alphaCode3": "BES",
+    "numericCode": "535",
+    "id": 28
+  },
+  {
+    "shortName": "Bosnia and Herzegovina",
+    "frenchName": "Bosnie-Herzégovine (la)",
+    "alphaCode2": "BA",
+    "alphaCode3": "BIH",
+    "numericCode": "070",
+    "id": 29
+  },
+  {
+    "shortName": "Botswana",
+    "frenchName": "Botswana (le)",
+    "alphaCode2": "BW",
+    "alphaCode3": "BWA",
+    "numericCode": "072",
+    "id": 30
+  },
+  {
+    "shortName": "Bouvet Island",
+    "frenchName": "Bouvet (l'Île)",
+    "alphaCode2": "BV",
+    "alphaCode3": "BVT",
+    "numericCode": "074",
+    "id": 31
+  },
+  {
+    "shortName": "Brazil",
+    "frenchName": "Brésil (le)",
+    "alphaCode2": "BR",
+    "alphaCode3": "BRA",
+    "numericCode": "076",
+    "id": 32
+  },
+  {
+    "shortName": "British Indian Ocean Territory (the)",
+    "frenchName": "Indien (le Territoire britannique de l'océan)",
+    "alphaCode2": "IO",
+    "alphaCode3": "IOT",
+    "numericCode": "086",
+    "id": 33
+  },
+  {
+    "shortName": "Brunei Darussalam",
+    "frenchName": "Brunéi Darussalam (le)",
+    "alphaCode2": "BN",
+    "alphaCode3": "BRN",
+    "numericCode": "096",
+    "id": 34
+  },
+  {
+    "shortName": "Bulgaria",
+    "frenchName": "Bulgarie (la)",
+    "alphaCode2": "BG",
+    "alphaCode3": "BGR",
+    "numericCode": "100",
+    "id": 35
+  },
+  {
+    "shortName": "Burkina Faso",
+    "frenchName": "Burkina Faso (le)",
+    "alphaCode2": "BF",
+    "alphaCode3": "BFA",
+    "numericCode": "854",
+    "id": 36
+  },
+  {
+    "shortName": "Burundi",
+    "frenchName": "Burundi (le)",
+    "alphaCode2": "BI",
+    "alphaCode3": "BDI",
+    "numericCode": "108",
+    "id": 37
+  },
+  {
+    "shortName": "Cabo Verde",
+    "frenchName": "Cabo Verde",
+    "alphaCode2": "CV",
+    "alphaCode3": "CPV",
+    "numericCode": "132",
+    "id": 38
+  },
+  {
+    "shortName": "Cambodia",
+    "frenchName": "Cambodge (le)",
+    "alphaCode2": "KH",
+    "alphaCode3": "KHM",
+    "numericCode": "116",
+    "id": 39
+  },
+  {
+    "shortName": "Cameroon",
+    "frenchName": "Cameroun (le)",
+    "alphaCode2": "CM",
+    "alphaCode3": "CMR",
+    "numericCode": "120",
+    "id": 40
+  },
+  {
+    "shortName": "Canada",
+    "frenchName": "Canada (le)",
+    "alphaCode2": "CA",
+    "alphaCode3": "CAN",
+    "numericCode": "124",
+    "id": 41
+  },
+  {
+    "shortName": "Cayman Islands (the)",
+    "frenchName": "Caïmans (les Îles)",
+    "alphaCode2": "KY",
+    "alphaCode3": "CYM",
+    "numericCode": "136",
+    "id": 42
+  },
+  {
+    "shortName": "Central African Republic (the)",
+    "frenchName": "République centrafricaine (la)",
+    "alphaCode2": "CF",
+    "alphaCode3": "CAF",
+    "numericCode": "140",
+    "id": 43
+  },
+  {
+    "shortName": "Chad",
+    "frenchName": "Tchad (le)",
+    "alphaCode2": "TD",
+    "alphaCode3": "TCD",
+    "numericCode": "148",
+    "id": 44
+  },
+  {
+    "shortName": "Chile",
+    "frenchName": "Chili (le)",
+    "alphaCode2": "CL",
+    "alphaCode3": "CHL",
+    "numericCode": "152",
+    "id": 45
+  },
+  {
+    "shortName": "China",
+    "frenchName": "Chine (la)",
+    "alphaCode2": "CN",
+    "alphaCode3": "CHN",
+    "numericCode": "156",
+    "id": 46
+  },
+  {
+    "shortName": "Christmas Island",
+    "frenchName": "Christmas (l'Île)",
+    "alphaCode2": "CX",
+    "alphaCode3": "CXR",
+    "numericCode": "162",
+    "id": 47
+  },
+  {
+    "shortName": "Cocos (Keeling) Islands (the)",
+    "frenchName": "Cocos (les Îles)/ Keeling (les Îles)",
+    "alphaCode2": "CC",
+    "alphaCode3": "CCK",
+    "stanng": "AUS",
+    "numericCode": "166",
+    "id": 48
+  },
+  {
+    "shortName": "Colombia",
+    "frenchName": "Colombie (la)",
+    "alphaCode2": "CO",
+    "alphaCode3": "COL",
+    "numericCode": "170",
+    "id": 49
+  },
+  {
+    "shortName": "Comoros (the)",
+    "frenchName": "Comores (les)",
+    "alphaCode2": "KM",
+    "alphaCode3": "COM",
+    "numericCode": "174",
+    "id": 50
+  },
+  {
+    "shortName": "Congo (the Democratic Republic of the)",
+    "frenchName": "Congo (la République démocratique du)",
+    "alphaCode2": "CD",
+    "alphaCode3": "COD",
+    "numericCode": "180",
+    "id": 51
+  },
+  {
+    "shortName": "Congo (the)",
+    "frenchName": "Congo (le)",
+    "alphaCode2": "CG",
+    "alphaCode3": "COG",
+    "numericCode": "178",
+    "id": 52
+  },
+  {
+    "shortName": "Cook Islands (the)",
+    "frenchName": "Cook (les Îles)",
+    "alphaCode2": "CK",
+    "alphaCode3": "COK",
+    "numericCode": "184",
+    "id": 53
+  },
+  {
+    "shortName": "Costa Rica",
+    "frenchName": "Costa Rica (le)",
+    "alphaCode2": "CR",
+    "alphaCode3": "CRI",
+    "numericCode": "188",
+    "id": 54
+  },
+  {
+    "shortName": "Croatia",
+    "frenchName": "Croatie (la)",
+    "alphaCode2": "HR",
+    "alphaCode3": "HRV",
+    "numericCode": "191",
+    "id": 55
+  },
+  {
+    "shortName": "Cuba",
+    "frenchName": "Cuba",
+    "alphaCode2": "CU",
+    "alphaCode3": "CUB",
+    "numericCode": "192",
+    "id": 56
+  },
+  {
+    "shortName": "Curaçao",
+    "frenchName": "Curaçao",
+    "alphaCode2": "CW",
+    "alphaCode3": "CUW",
+    "numericCode": "531",
+    "id": 57
+  },
+  {
+    "shortName": "Cyprus",
+    "frenchName": "Chypre",
+    "alphaCode2": "CY",
+    "alphaCode3": "CYP",
+    "numericCode": "196",
+    "id": 58
+  },
+  {
+    "alphaCode2": "A2",
+    "shortName": "Guantanamo Bay Naval Base"
+  },
+  {
+    "shortName": "Czechia",
+    "frenchName": "Tchéquie (la)",
+    "alphaCode2": "CZ",
+    "alphaCode3": "CZE",
+    "numericCode": "203",
+    "id": 59
+  },
+  {
+    "shortName": "Côte d'Ivoire",
+    "frenchName": "Côte d'Ivoire (la)",
+    "alphaCode2": "CI",
+    "alphaCode3": "CIV",
+    "numericCode": "384",
+    "id": 60
+  },
+  {
+    "shortName": "Denmark",
+    "frenchName": "Danemark (le)",
+    "alphaCode2": "DK",
+    "alphaCode3": "DNK",
+    "numericCode": "208",
+    "id": 61
+  },
+  {
+    "shortName": "Djibouti",
+    "frenchName": "Djibouti",
+    "alphaCode2": "DJ",
+    "alphaCode3": "DJI",
+    "numericCode": "262",
+    "id": 62
+  },
+  {
+    "shortName": "Dominica",
+    "frenchName": "Dominique (la)",
+    "alphaCode2": "DM",
+    "alphaCode3": "DMA",
+    "numericCode": "212",
+    "id": 63
+  },
+  {
+    "shortName": "Dominican Republic (the)",
+    "frenchName": "dominicaine (la République)",
+    "alphaCode2": "DO",
+    "alphaCode3": "DOM",
+    "numericCode": "214",
+    "id": 64
+  },
+  {
+    "shortName": "Ecuador",
+    "frenchName": "Équateur (l')",
+    "alphaCode2": "EC",
+    "alphaCode3": "ECU",
+    "numericCode": "218",
+    "id": 65
+  },
+  {
+    "shortName": "Egypt",
+    "frenchName": "Égypte (l')",
+    "alphaCode2": "EG",
+    "alphaCode3": "EGY",
+    "numericCode": "818",
+    "id": 66
+  },
+  {
+    "shortName": "El Salvador",
+    "frenchName": "El Salvador",
+    "alphaCode2": "SV",
+    "alphaCode3": "SLV",
+    "numericCode": "222",
+    "id": 67
+  },
+  {
+    "shortName": "Equatorial Guinea",
+    "frenchName": "Guinée équatoriale (la)",
+    "alphaCode2": "GQ",
+    "alphaCode3": "GNQ",
+    "numericCode": "226",
+    "id": 68
+  },
+  {
+    "shortName": "Eritrea",
+    "frenchName": "Érythrée (l')",
+    "alphaCode2": "ER",
+    "alphaCode3": "ERI",
+    "numericCode": "232",
+    "id": 69
+  },
+  {
+    "shortName": "Estonia",
+    "frenchName": "Estonie (l')",
+    "alphaCode2": "EE",
+    "alphaCode3": "EST",
+    "numericCode": "233",
+    "id": 70
+  },
+  {
+    "shortName": "Eswatini",
+    "frenchName": "Eswatini (l')",
+    "alphaCode2": "SZ",
+    "alphaCode3": "SWZ",
+    "numericCode": "748",
+    "id": 71
+  },
+  {
+    "shortName": "Ethiopia",
+    "frenchName": "Éthiopie (l')",
+    "alphaCode2": "ET",
+    "alphaCode3": "ETH",
+    "numericCode": "231",
+    "id": 72
+  },
+  {
+    "shortName": "Falkland Islands (the) [Malvinas]",
+    "frenchName": "Falkland (les Îles)/Malouines (les Îles)",
+    "alphaCode2": "FK",
+    "alphaCode3": "FLK",
+    "numericCode": "238",
+    "id": 73
+  },
+  {
+    "shortName": "Faroe Islands (the)",
+    "frenchName": "Féroé (les Îles)",
+    "alphaCode2": "FO",
+    "alphaCode3": "FRO",
+    "numericCode": "234",
+    "id": 74
+  },
+  {
+    "shortName": "Fiji",
+    "frenchName": "Fidji (les)",
+    "alphaCode2": "FJ",
+    "alphaCode3": "FJI",
+    "numericCode": "242",
+    "id": 75
+  },
+  {
+    "shortName": "Finland",
+    "frenchName": "Finlande (la)",
+    "alphaCode2": "FI",
+    "alphaCode3": "FIN",
+    "numericCode": "246",
+    "id": 76
+  },
+  {
+    "shortName": "France",
+    "frenchName": "France (la)",
+    "alphaCode2": "FR",
+    "alphaCode3": "FRA",
+    "numericCode": "250",
+    "id": 77
+  },
+  {
+    "shortName": "French Guiana",
+    "frenchName": "Guyane française (la )",
+    "alphaCode2": "GF",
+    "alphaCode3": "GUF",
+    "numericCode": "254",
+    "id": 78
+  },
+  {
+    "shortName": "French Polynesia",
+    "frenchName": "Polynésie française (la)",
+    "alphaCode2": "PF",
+    "alphaCode3": "PYF",
+    "numericCode": "258",
+    "id": 79
+  },
+  {
+    "shortName": "French Southern Territories (the)",
+    "frenchName": "Terres australes françaises (les)",
+    "alphaCode2": "TF",
+    "alphaCode3": "ATF",
+    "numericCode": "260",
+    "id": 80
+  },
+  {
+    "shortName": "Gabon",
+    "frenchName": "Gabon (le)",
+    "alphaCode2": "GA",
+    "alphaCode3": "GAB",
+    "numericCode": "266",
+    "id": 81
+  },
+  {
+    "shortName": "Gambia (the)",
+    "frenchName": "Gambie (la)",
+    "alphaCode2": "GM",
+    "alphaCode3": "GMB",
+    "numericCode": "270",
+    "id": 82
+  },
+  {
+    "shortName": "Georgia",
+    "frenchName": "Géorgie (la)",
+    "alphaCode2": "GE",
+    "alphaCode3": "GEO",
+    "numericCode": "268",
+    "id": 83
+  },
+  {
+    "shortName": "Germany",
+    "frenchName": "Allemagne (l')",
+    "alphaCode2": "DE",
+    "alphaCode3": "DEU",
+    "numericCode": "276",
+    "id": 84
+  },
+  {
+    "shortName": "Ghana",
+    "frenchName": "Ghana (le)",
+    "alphaCode2": "GH",
+    "alphaCode3": "GHA",
+    "numericCode": "288",
+    "id": 85
+  },
+  {
+    "shortName": "Gibraltar",
+    "frenchName": "Gibraltar",
+    "alphaCode2": "GI",
+    "alphaCode3": "GIB",
+    "numericCode": "292",
+    "id": 86
+  },
+  {
+    "shortName": "Greece",
+    "frenchName": "Grèce (la)",
+    "alphaCode2": "GR",
+    "alphaCode3": "GRC",
+    "geopoliticalEntitiesNamesCodeAlternative": "EL",
+    "numericCode": "300",
+    "id": 87
+  },
+  {
+    "shortName": "Greenland",
+    "frenchName": "Groenland (le)",
+    "alphaCode2": "GL",
+    "alphaCode3": "GRL",
+    "numericCode": "304",
+    "id": 88
+  },
+  {
+    "shortName": "Grenada",
+    "frenchName": "Grenade (la)",
+    "alphaCode2": "GD",
+    "alphaCode3": "GRD",
+    "numericCode": "308",
+    "id": 89
+  },
+  {
+    "shortName": "Guadeloupe",
+    "frenchName": "Guadeloupe (la)",
+    "alphaCode2": "GP",
+    "alphaCode3": "GLP",
+    "numericCode": "312",
+    "id": 90
+  },
+  {
+    "shortName": "Guam",
+    "frenchName": "Guam",
+    "alphaCode2": "GU",
+    "alphaCode3": "GUM",
+    "numericCode": "316",
+    "id": 91
+  },
+  {
+    "shortName": "Guatemala",
+    "frenchName": "Guatemala (le)",
+    "alphaCode2": "GT",
+    "alphaCode3": "GTM",
+    "numericCode": "320",
+    "id": 92
+  },
+  {
+    "shortName": "Guernsey",
+    "frenchName": "Guernesey",
+    "alphaCode2": "GG",
+    "stanng": "UK",
+    "alphaCode3": "GGY",
+    "numericCode": "831",
+    "id": 93
+  },
+  {
+    "shortName": "Guinea",
+    "frenchName": "Guinée (la)",
+    "alphaCode2": "GN",
+    "alphaCode3": "GIN",
+    "numericCode": "324",
+    "id": 94
+  },
+  {
+    "shortName": "Guinea-Bissau",
+    "frenchName": "Guinée-Bissau (la)",
+    "alphaCode2": "GW",
+    "alphaCode3": "GNB",
+    "numericCode": "624",
+    "id": 95
+  },
+  {
+    "shortName": "Guyana",
+    "frenchName": "Guyana (le)",
+    "alphaCode2": "GY",
+    "alphaCode3": "GUY",
+    "numericCode": "328",
+    "id": 96
+  },
+  {
+    "shortName": "Haiti",
+    "frenchName": "Haïti",
+    "alphaCode2": "HT",
+    "alphaCode3": "HTI",
+    "numericCode": "332",
+    "id": 97
+  },
+  {
+    "shortName": "Heard Island and McDonald Islands",
+    "frenchName": "Heard-et-Îles MacDonald (l'Île)",
+    "alphaCode2": "HM",
+    "alphaCode3": "HMD",
+    "numericCode": "334",
+    "id": 98
+  },
+  {
+    "shortName": "Holy See (the)",
+    "frenchName": "Saint-Siège (le)",
+    "alphaCode2": "VA",
+    "alphaCode3": "VAT",
+    "comment": "Vatican City State",
+    "numericCode": "336",
+    "id": 99
+  },
+  {
+    "shortName": "Honduras",
+    "frenchName": "Honduras (le)",
+    "alphaCode2": "HN",
+    "alphaCode3": "HND",
+    "numericCode": "340",
+    "id": 100
+  },
+  {
+    "shortName": "Hong Kong",
+    "frenchName": "Hong Kong",
+    "alphaCode2": "HK",
+    "alphaCode3": "HKG",
+    "numericCode": "344",
+    "id": 101
+  },
+  {
+    "shortName": "Gaza Strip",
+    "alphaCode2": "XG",
+    "geopoliticalEntitiesNamesCode": "XGZ"
+  },
+  {
+    "shortName": "Hungary",
+    "frenchName": "Hongrie (la)",
+    "alphaCode2": "HU",
+    "alphaCode3": "HUN",
+    "numericCode": "348",
+    "id": 102
+  },
+  {
+    "shortName": "Iceland",
+    "frenchName": "Islande (l')",
+    "alphaCode2": "IS",
+    "alphaCode3": "ISL",
+    "numericCode": "352",
+    "id": 103
+  },
+  {
+    "shortName": "India",
+    "frenchName": "Inde (l')",
+    "alphaCode2": "IN",
+    "alphaCode3": "IND",
+    "numericCode": "356",
+    "id": 104
+  },
+  {
+    "shortName": "Indonesia",
+    "frenchName": "Indonésie (l')",
+    "alphaCode2": "ID",
+    "alphaCode3": "IDN",
+    "numericCode": "360",
+    "id": 105
+  },
+  {
+    "shortName": "Iran (Islamic Republic of)",
+    "frenchName": "Iran (République Islamique d')",
+    "alphaCode2": "IR",
+    "alphaCode3": "IRN",
+    "numericCode": "364",
+    "id": 106
+  },
+  {
+    "shortName": "Iraq",
+    "frenchName": "Iraq (l')",
+    "alphaCode2": "IQ",
+    "alphaCode3": "IRQ",
+    "numericCode": "368",
+    "id": 107
+  },
+  {
+    "shortName": "Ireland",
+    "frenchName": "Irlande (l')",
+    "alphaCode2": "IE",
+    "alphaCode3": "IRL",
+    "numericCode": "372",
+    "id": 108
+  },
+  {
+    "shortName": "Isle of Man",
+    "frenchName": "Île de Man",
+    "alphaCode2": "IM",
+    "alphaCode3": "IMN",
+    "stanng": "UK",
+    "numericCode": "833",
+    "id": 109
+  },
+  {
+    "shortName": "Israel",
+    "frenchName": "Israël",
+    "alphaCode2": "IL",
+    "alphaCode3": "ISR",
+    "numericCode": "376",
+    "id": 110
+  },
+  {
+    "shortName": "Italy",
+    "frenchName": "Italie (l')",
+    "alphaCode2": "IT",
+    "alphaCode3": "ITA",
+    "numericCode": "380",
+    "id": 111
+  },
+  {
+    "shortName": "Jamaica",
+    "frenchName": "Jamaïque (la)",
+    "alphaCode2": "JM",
+    "alphaCode3": "JAM",
+    "numericCode": "388",
+    "id": 112
+  },
+  {
+    "shortName": "Japan",
+    "frenchName": "Japon (le)",
+    "alphaCode2": "JP",
+    "alphaCode3": "JPN",
+    "numericCode": "392",
+    "id": 113
+  },
+  {
+    "shortName": "Jersey",
+    "frenchName": "Jersey",
+    "alphaCode2": "JE",
+    "alphaCode3": "JEY",
+    "stanng": "UK",
+    "numericCode": "832",
+    "id": 114
+  },
+  {
+    "shortName": "Jordan",
+    "frenchName": "Jordanie (la)",
+    "alphaCode2": "JO",
+    "alphaCode3": "JOR",
+    "numericCode": "400",
+    "id": 115
+  },
+  {
+    "shortName": "Kazakhstan",
+    "frenchName": "Kazakhstan (le)",
+    "alphaCode2": "KZ",
+    "alphaCode3": "KAZ",
+    "numericCode": "398",
+    "id": 116
+  },
+  {
+    "shortName": "Kenya",
+    "frenchName": "Kenya (le)",
+    "alphaCode2": "KE",
+    "alphaCode3": "KEN",
+    "numericCode": "404",
+    "id": 117
+  },
+  {
+    "shortName": "Kiribati",
+    "frenchName": "Kiribati",
+    "alphaCode2": "KI",
+    "alphaCode3": "KIR",
+    "numericCode": "296",
+    "id": 118
+  },
+  {
+    "shortName": "Korea (the Democratic People's Republic of)",
+    "frenchName": "Corée (la République populaire démocratique de)",
+    "alphaCode2": "KP",
+    "alphaCode3": "PRK",
+    "numericCode": "408",
+    "id": 119
+  },
+  {
+    "shortName": "Korea (the Republic of)",
+    "frenchName": "Corée (la République de)",
+    "alphaCode2": "KR",
+    "alphaCode3": "KOR",
+    "numericCode": "410",
+    "id": 120
+  },
+  {
+    "shortName": "Kuwait",
+    "frenchName": "Koweït (le)",
+    "alphaCode2": "KW",
+    "alphaCode3": "KWT",
+    "numericCode": "414",
+    "id": 121
+  },
+  {
+    "shortName": "Kyrgyzstan",
+    "frenchName": "Kirghizistan (le)",
+    "alphaCode2": "KG",
+    "alphaCode3": "KGZ",
+    "numericCode": "417",
+    "id": 122
+  },
+  {
+    "shortName": "Lao People's Democratic Republic (the)",
+    "frenchName": "Lao (la République démocratique populaire)",
+    "alphaCode2": "LA",
+    "alphaCode3": "LAO",
+    "numericCode": "418",
+    "id": 123
+  },
+  {
+    "shortName": "Latvia",
+    "frenchName": "Lettonie (la)",
+    "alphaCode2": "LV",
+    "alphaCode3": "LVA",
+    "numericCode": "428",
+    "id": 124
+  },
+  {
+    "shortName": "Lebanon",
+    "frenchName": "Liban (le)",
+    "alphaCode2": "LB",
+    "alphaCode3": "LBN",
+    "numericCode": "422",
+    "id": 125
+  },
+  {
+    "shortName": "Lesotho",
+    "frenchName": "Lesotho (le)",
+    "alphaCode2": "LS",
+    "alphaCode3": "LSO",
+    "numericCode": "426",
+    "id": 126
+  },
+  {
+    "shortName": "Liberia",
+    "frenchName": "Libéria (le)",
+    "alphaCode2": "LR",
+    "alphaCode3": "LBR",
+    "numericCode": "430",
+    "id": 127
+  },
+  {
+    "shortName": "Libya",
+    "frenchName": "Libye (la)",
+    "alphaCode2": "LY",
+    "alphaCode3": "LBY",
+    "numericCode": "434",
+    "id": 128
+  },
+  {
+    "shortName": "Liechtenstein",
+    "frenchName": "Liechtenstein (le)",
+    "alphaCode2": "LI",
+    "alphaCode3": "LIE",
+    "numericCode": "438",
+    "id": 129
+  },
+  {
+    "shortName": "Lithuania",
+    "frenchName": "Lituanie (la)",
+    "alphaCode2": "LT",
+    "alphaCode3": "LTU",
+    "numericCode": "440",
+    "id": 130
+  },
+  {
+    "shortName": "Luxembourg",
+    "frenchName": "Luxembourg (le)",
+    "alphaCode2": "LU",
+    "alphaCode3": "LUX",
+    "numericCode": "442",
+    "id": 131
+  },
+  {
+    "shortName": "Macao",
+    "frenchName": "Macao",
+    "alphaCode2": "MO",
+    "alphaCode3": "MAC",
+    "numericCode": "446",
+    "id": 132
+  },
+  {
+    "shortName": "Madagascar",
+    "frenchName": "Madagascar",
+    "alphaCode2": "MG",
+    "alphaCode3": "MDG",
+    "numericCode": "450",
+    "id": 133
+  },
+  {
+    "shortName": "Malawi",
+    "frenchName": "Malawi (le)",
+    "alphaCode2": "MW",
+    "alphaCode3": "MWI",
+    "numericCode": "454",
+    "id": 134
+  },
+  {
+    "shortName": "Malaysia",
+    "frenchName": "Malaisie (la)",
+    "alphaCode2": "MY",
+    "alphaCode3": "MYS",
+    "numericCode": "458",
+    "id": 135
+  },
+  {
+    "shortName": "Maldives",
+    "frenchName": "Maldives (les)",
+    "alphaCode2": "MV",
+    "alphaCode3": "MDV",
+    "numericCode": "462",
+    "id": 136
+  },
+  {
+    "shortName": "Mali",
+    "frenchName": "Mali (le)",
+    "alphaCode2": "ML",
+    "alphaCode3": "MLI",
+    "numericCode": "466",
+    "id": 137
+  },
+  {
+    "shortName": "Malta",
+    "frenchName": "Malte",
+    "alphaCode2": "MT",
+    "alphaCode3": "MLT",
+    "numericCode": "470",
+    "id": 138
+  },
+  {
+    "shortName": "Marshall Islands (the)",
+    "frenchName": "Marshall (les Îles)",
+    "alphaCode2": "MH",
+    "alphaCode3": "MHL",
+    "numericCode": "584",
+    "id": 139
+  },
+  {
+    "shortName": "Martinique",
+    "frenchName": "Martinique (la)",
+    "alphaCode2": "MQ",
+    "alphaCode3": "MTQ",
+    "numericCode": "474",
+    "id": 140
+  },
+  {
+    "shortName": "Mauritania",
+    "frenchName": "Mauritanie (la)",
+    "alphaCode2": "MR",
+    "alphaCode3": "MRT",
+    "numericCode": "478",
+    "id": 141
+  },
+  {
+    "shortName": "Mauritius",
+    "frenchName": "Maurice",
+    "alphaCode2": "MU",
+    "alphaCode3": "MUS",
+    "numericCode": "480",
+    "id": 142
+  },
+  {
+    "shortName": "Mayotte",
+    "frenchName": "Mayotte",
+    "alphaCode2": "YT",
+    "stanng":"FRA",
+    "alphaCode3": "MYT",
+    "numericCode": "175",
+    "id": 143
+  },
+  {
+    "shortName": "Mexico",
+    "frenchName": "Mexique (le)",
+    "alphaCode2": "MX",
+    "alphaCode3": "MEX",
+    "numericCode": "484",
+    "id": 144
+  },
+  {
+    "shortName": "Micronesia (Federated States of)",
+    "frenchName": "Micronésie (États fédérés de)",
+    "alphaCode2": "FM",
+    "alphaCode3": "FSM",
+    "numericCode": "583",
+    "id": 145
+  },
+  {
+    "shortName": "Moldova (the Republic of)",
+    "frenchName": "Moldova (la République de)",
+    "alphaCode2": "MD",
+    "alphaCode3": "MDA",
+    "numericCode": "498",
+    "id": 146
+  },
+  {
+    "shortName": "Monaco",
+    "frenchName": "Monaco",
+    "alphaCode2": "MC",
+    "alphaCode3": "MCO",
+    "numericCode": "492",
+    "id": 147
+  },
+  {
+    "shortName": "Mongolia",
+    "frenchName": "Mongolie (la)",
+    "alphaCode2": "MN",
+    "alphaCode3": "MNG",
+    "numericCode": "496",
+    "id": 148
+  },
+  {
+    "shortName": "Montenegro",
+    "frenchName": "Monténégro (le)",
+    "alphaCode2": "ME",
+    "alphaCode3": "MNE",
+    "numericCode": "499",
+    "id": 149
+  },
+  {
+    "shortName": "Montserrat",
+    "frenchName": "Montserrat",
+    "alphaCode2": "MS",
+    "alphaCode3": "MSR",
+    "numericCode": "500",
+    "id": 150
+  },
+  {
+    "shortName": "Morocco",
+    "frenchName": "Maroc (le)",
+    "alphaCode2": "MA",
+    "alphaCode3": "MAR",
+    "numericCode": "504",
+    "id": 151
+  },
+  {
+    "shortName": "Mozambique",
+    "frenchName": "Mozambique (le)",
+    "alphaCode2": "MZ",
+    "alphaCode3": "MOZ",
+    "numericCode": "508",
+    "id": 152
+  },
+  {
+    "shortName": "Myanmar",
+    "frenchName": "Myanmar (le)",
+    "alphaCode2": "MM",
+    "alphaCode3": "MMR",
+    "numericCode": "104",
+    "id": 153
+  },
+  {
+    "shortName": "Namibia",
+    "frenchName": "Namibie (la)",
+    "alphaCode2": "NA",
+    "alphaCode3": "NAM",
+    "numericCode": "516",
+    "id": 154
+  },
+  {
+    "shortName": "Nauru",
+    "frenchName": "Nauru",
+    "alphaCode2": "NR",
+    "alphaCode3": "NRU",
+    "numericCode": "520",
+    "id": 155
+  },
+  {
+    "shortName": "Nepal",
+    "frenchName": "Népal (le)",
+    "alphaCode2": "NP",
+    "alphaCode3": "NPL",
+    "numericCode": "524",
+    "id": 156
+  },
+  {
+    "shortName": "Netherlands (Kingdom of the)",
+    "frenchName": "Pays-Bas (Royaume des)",
+    "alphaCode2": "NL",
+    "alphaCode3": "NLD",
+    "numericCode": "528",
+    "id": 157
+  },
+  {
+    "shortName": "New Caledonia",
+    "frenchName": "Nouvelle-Calédonie (la)",
+    "alphaCode2": "NC",
+    "alphaCode3": "NCL",
+    "numericCode": "540",
+    "id": 158
+  },
+  {
+    "shortName": "New Zealand",
+    "frenchName": "Nouvelle-Zélande (la)",
+    "alphaCode2": "NZ",
+    "alphaCode3": "NZL",
+    "numericCode": "554",
+    "id": 159
+  },
+  {
+    "shortName": "Nicaragua",
+    "frenchName": "Nicaragua (le)",
+    "alphaCode2": "NI",
+    "alphaCode3": "NIC",
+    "numericCode": "558",
+    "id": 160
+  },
+  {
+    "shortName": "Niger (the)",
+    "frenchName": "Niger (le)",
+    "alphaCode2": "NE",
+    "alphaCode3": "NER",
+    "numericCode": "562",
+    "id": 161
+  },
+  {
+    "shortName": "Nigeria",
+    "frenchName": "Nigéria (le)",
+    "alphaCode2": "NG",
+    "alphaCode3": "NGA",
+    "numericCode": "566",
+    "id": 162
+  },
+  {
+    "shortName": "Niue",
+    "frenchName": "Niue",
+    "alphaCode2": "NU",
+    "alphaCode3": "NIU",
+    "numericCode": "570",
+    "id": 163
+  },
+  {
+    "shortName": "Norfolk Island",
+    "frenchName": "Norfolk (l'Île)",
+    "alphaCode2": "NF",
+    "alphaCode3": "NFK",
+    "numericCode": "574",
+    "id": 164
+  },
+  {
+    "shortName": "North Macedonia",
+    "frenchName": "Macédoine du Nord (la)",
+    "stanng": "FYR",
+    "alphaCode2": "MK",
+    "alphaCode3": "MKD",
+    "numericCode": "807",
+    "id": 165
+  },
+  {
+    "shortName": "Northern Mariana Islands (the)",
+    "frenchName": "Mariannes du Nord (les Îles)",
+    "alphaCode2": "MP",
+    "alphaCode3": "MNP",
+    "numericCode": "580",
+    "id": 166
+  },
+  {
+    "shortName": "Norway",
+    "frenchName": "Norvège (la)",
+    "alphaCode2": "NO",
+    "alphaCode3": "NOR",
+    "numericCode": "578",
+    "id": 167
+  },
+  {
+    "shortName": "Oman",
+    "frenchName": "Oman",
+    "alphaCode2": "OM",
+    "alphaCode3": "OMN",
+    "numericCode": "512",
+    "id": 168
+  },
+  {
+    "shortName": "Pakistan",
+    "frenchName": "Pakistan (le)",
+    "alphaCode2": "PK",
+    "alphaCode3": "PAK",
+    "numericCode": "586",
+    "id": 169
+  },
+  {
+    "shortName": "Palau",
+    "frenchName": "Palaos (les)",
+    "alphaCode2": "PW",
+    "alphaCode3": "PLW",
+    "numericCode": "585",
+    "id": 170
+  },
+  {
+    "shortName": "Palestine, State of",
+    "frenchName": "Palestine, État de",
+    "alphaCode2": "PS",
+    "alphaCode3": "PSE",
+    "numericCode": "275",
+    "id": 171
+  },
+  {
+    "shortName": "Panama",
+    "frenchName": "Panama (le)",
+    "alphaCode2": "PA",
+    "alphaCode3": "PAN",
+    "numericCode": "591",
+    "id": 172
+  },
+  {
+    "shortName": "Papua New Guinea",
+    "frenchName": "Papouasie-Nouvelle-Guinée (la)",
+    "alphaCode2": "PG",
+    "alphaCode3": "PNG",
+    "numericCode": "598",
+    "id": 173
+  },
+  {
+    "shortName": "Paraguay",
+    "frenchName": "Paraguay (le)",
+    "alphaCode2": "PY",
+    "alphaCode3": "PRY",
+    "numericCode": "600",
+    "id": 174
+  },
+  {
+    "shortName": "Peru",
+    "frenchName": "Pérou (le)",
+    "alphaCode2": "PE",
+    "alphaCode3": "PER",
+    "numericCode": "604",
+    "id": 175
+  },
+  {
+    "shortName": "Philippines (the)",
+    "frenchName": "Philippines (les)",
+    "alphaCode2": "PH",
+    "alphaCode3": "PHL",
+    "numericCode": "608",
+    "id": 176
+  },
+  {
+    "shortName": "Pitcairn",
+    "frenchName": "Pitcairn",
+    "alphaCode2": "PN",
+    "alphaCode3": "PCN",
+    "numericCode": "612",
+    "id": 177
+  },
+  {
+    "shortName": "Poland",
+    "frenchName": "Pologne (la)",
+    "alphaCode2": "PL",
+    "alphaCode3": "POL",
+    "numericCode": "616",
+    "id": 178
+  },
+  {
+    "shortName": "Portugal",
+    "frenchName": "Portugal (le)",
+    "alphaCode2": "PT",
+    "alphaCode3": "PRT",
+    "numericCode": "620",
+    "id": 179
+  },
+  {
+    "shortName": "Puerto Rico",
+    "frenchName": "Porto Rico",
+    "alphaCode2": "PR",
+    "alphaCode3": "PRI",
+    "numericCode": "630",
+    "id": 180
+  },
+  {
+    "shortName": "Qatar",
+    "frenchName": "Qatar (le)",
+    "alphaCode2": "QA",
+    "alphaCode3": "QAT",
+    "numericCode": "634",
+    "id": 181
+  },
+  {
+    "shortName": "Romania",
+    "frenchName": "Roumanie (la)",
+    "alphaCode2": "RO",
+    "alphaCode3": "ROU",
+    "numericCode": "642",
+    "id": 182
+  },
+  {
+    "shortName": "Russian Federation (the)",
+    "frenchName": "Russie (la Fédération de)",
+    "alphaCode2": "RU",
+    "alphaCode3": "RUS",
+    "numericCode": "643",
+    "id": 183
+  },
+  {
+    "shortName": "Rwanda",
+    "frenchName": "Rwanda (le)",
+    "alphaCode2": "RW",
+    "alphaCode3": "RWA",
+    "numericCode": "646",
+    "id": 184
+  },
+  {
+    "shortName": "Réunion",
+    "frenchName": "Réunion (La)",
+    "alphaCode2": "RE",
+    "alphaCode3": "REU",
+    "numericCode": "638",
+    "id": 185
+  },
+  {
+    "shortName": "Saint Barthélemy",
+    "frenchName": "Saint-Barthélemy",
+    "alphaCode2": "BL",
+    "alphaCode3": "BLM",
+    "numericCode": "652",
+    "id": 186
+  },
+  {
+    "shortName": "Saint Helena, Ascension and Tristan da Cunha",
+    "frenchName": "Sainte-Hélène, Ascension et Tristan da Cunha",
+    "alphaCode2": "SH",
+    "alphaCode3": "SHN",
+    "numericCode": "654",
+    "id": 187
+  },
+  {
+    "shortName": "Saint Kitts and Nevis",
+    "frenchName": "Saint-Kitts-et-Nevis",
+    "alphaCode2": "KN",
+    "alphaCode3": "KNA",
+    "numericCode": "659",
+    "id": 188
+  },
+  {
+    "shortName": "Saint Lucia",
+    "frenchName": "Sainte-Lucie",
+    "alphaCode2": "LC",
+    "alphaCode3": "LCA",
+    "numericCode": "662",
+    "id": 189
+  },
+  {
+    "shortName": "Saint Martin (French part)",
+    "frenchName": "Saint-Martin (partie française)",
+    "alphaCode2": "MF",
+    "alphaCode3": "MAF",
+    "numericCode": "663",
+    "id": 190
+  },
+  {
+    "shortName": "Saint Pierre and Miquelon",
+    "frenchName": "Saint-Pierre-et-Miquelon",
+    "alphaCode2": "PM",
+    "alphaCode3": "SPM",
+    "numericCode": "666",
+    "id": 191
+  },
+  {
+    "shortName": "Saint Vincent and the Grenadines",
+    "frenchName": "Saint-Vincent-et-les Grenadines",
+    "alphaCode2": "VC",
+    "alphaCode3": "VCT",
+    "numericCode": "670",
+    "id": 192
+  },
+  {
+    "shortName": "Samoa",
+    "frenchName": "Samoa (le)",
+    "alphaCode2": "WS",
+    "alphaCode3": "WSM",
+    "numericCode": "882",
+    "id": 193
+  },
+  {
+    "shortName": "San Marino",
+    "frenchName": "Saint-Marin",
+    "alphaCode2": "SM",
+    "alphaCode3": "SMR",
+    "numericCode": "674",
+    "id": 194
+  },
+  {
+    "shortName": "Sao Tome and Principe",
+    "frenchName": "Sao Tomé-et-Principe",
+    "alphaCode2": "ST",
+    "alphaCode3": "STP",
+    "numericCode": "678",
+    "id": 195
+  },
+  {
+    "shortName": "Saudi Arabia",
+    "frenchName": "Arabie saoudite (l')",
+    "alphaCode2": "SA",
+    "alphaCode3": "SAU",
+    "numericCode": "682",
+    "id": 196
+  },
+  {
+    "shortName": "Senegal",
+    "frenchName": "Sénégal (le)",
+    "alphaCode2": "SN",
+    "alphaCode3": "SEN",
+    "numericCode": "686",
+    "id": 197
+  },
+  {
+    "shortName": "Serbia",
+    "frenchName": "Serbie (la)",
+    "alphaCode2": "RS",
+    "alphaCode3": "SRB",
+    "numericCode": "688",
+    "id": 198
+  },
+  {
+    "shortName": "Seychelles",
+    "frenchName": "Seychelles (les)",
+    "alphaCode2": "SC",
+    "alphaCode3": "SYC",
+    "numericCode": "690",
+    "id": 199
+  },
+  {
+    "shortName": "Sierra Leone",
+    "frenchName": "Sierra Leone (la)",
+    "alphaCode2": "SL",
+    "alphaCode3": "SLE",
+    "numericCode": "694",
+    "id": 200
+  },
+  {
+    "shortName": "Singapore",
+    "frenchName": "Singapour",
+    "alphaCode2": "SG",
+    "alphaCode3": "SGP",
+    "numericCode": "702",
+    "id": 201
+  },
+  {
+    "shortName": "Sint Maarten (Dutch part)",
+    "frenchName": "Saint-Martin (partie néerlandaise)",
+    "alphaCode2": "SX",
+    "alphaCode3": "SXM",
+    "numericCode": "534",
+    "id": 202
+  },
+  {
+    "shortName": "Slovakia",
+    "frenchName": "Slovaquie (la)",
+    "alphaCode2": "SK",
+    "alphaCode3": "SVK",
+    "numericCode": "703",
+    "id": 203
+  },
+  {
+    "shortName": "Slovenia",
+    "frenchName": "Slovénie (la)",
+    "alphaCode2": "SI",
+    "alphaCode3": "SVN",
+    "numericCode": "705",
+    "id": 204
+  },
+  {
+    "shortName": "Solomon Islands",
+    "frenchName": "Salomon (les Îles)",
+    "alphaCode2": "SB",
+    "alphaCode3": "SLB",
+    "numericCode": "090",
+    "id": 205
+  },
+  {
+    "shortName": "Somalia",
+    "frenchName": "Somalie (la)",
+    "alphaCode2": "SO",
+    "alphaCode3": "SOM",
+    "numericCode": "706",
+    "id": 206
+  },
+  {
+    "shortName": "South Africa",
+    "frenchName": "Afrique du Sud (l')",
+    "alphaCode2": "ZA",
+    "alphaCode3": "ZAF",
+    "numericCode": "710",
+    "id": 207
+  },
+  {
+    "shortName": "South Georgia and the South Sandwich Islands",
+    "frenchName": "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
+    "alphaCode2": "GS",
+    "alphaCode3": "SGS",
+    "numericCode": "239",
+    "id": 208
+  },
+  {
+    "shortName": "South Sudan",
+    "frenchName": "Soudan du Sud (le)",
+    "alphaCode2": "SS",
+    "alphaCode3": "SSD",
+    "numericCode": "728",
+    "id": 209
+  },
+  {
+    "shortName": "Spain",
+    "frenchName": "Espagne (l')",
+    "alphaCode2": "ES",
+    "alphaCode3": "ESP",
+    "numericCode": "724",
+    "id": 210
+  },
+  {
+    "shortName": "Sri Lanka",
+    "frenchName": "Sri Lanka",
+    "alphaCode2": "LK",
+    "alphaCode3": "LKA",
+    "numericCode": "144",
+    "id": 211
+  },
+  {
+    "shortName": "Sudan (the)",
+    "frenchName": "Soudan (le)",
+    "alphaCode2": "SD",
+    "alphaCode3": "SDN",
+    "numericCode": "729",
+    "id": 212
+  },
+  {
+    "shortName": "Suriname",
+    "frenchName": "Suriname (le)",
+    "alphaCode2": "SR",
+    "alphaCode3": "SUR",
+    "numericCode": "740",
+    "id": 213
+  },
+  {
+    "alphaCode2": "XK",
+    "alphaCode3": "XKS",
+    "shortName": "Kosovo"
+  },
+  {
+    "shortName": "Svalbard and Jan Mayen",
+    "frenchName": "Svalbard et l'Île Jan Mayen (le)",
+    "alphaCode2": "SJ",
+    "alphaCode3": "SJM",
+    "numericCode": "744",
+    "geopoliticalEntitiesNamesCode": "XSV",
+    "id": 214
+  },
+  {
+    "geopoliticalEntitiesNamesCode": "XJM",
+    "shortName": "Jan Mayen",
+    "stanng": "SJM"
+  },
+  {
+    "shortName": "Sweden",
+    "frenchName": "Suède (la)",
+    "alphaCode2": "SE",
+    "alphaCode3": "SWE",
+    "numericCode": "752",
+    "id": 215
+  },
+  {
+    "shortName": "Switzerland",
+    "frenchName": "Suisse (la)",
+    "alphaCode2": "CH",
+    "alphaCode3": "CHE",
+    "numericCode": "756",
+    "id": 216
+  },
+  {
+    "shortName": "Syrian Arab Republic (the)",
+    "frenchName": "République arabe syrienne (la)",
+    "alphaCode2": "SY",
+    "alphaCode3": "SYR",
+    "numericCode": "760",
+    "id": 217
+  },
+  {
+    "shortName": "Taiwan (Province of China)",
+    "frenchName": "Taïwan (Province de Chine)",
+    "alphaCode2": "TW",
+    "alphaCode3": "TWN",
+    "numericCode": "158",
+    "id": 218
+  },
+  {
+    "shortName": "Tajikistan",
+    "frenchName": "Tadjikistan (le)",
+    "alphaCode2": "TJ",
+    "alphaCode3": "TJK",
+    "numericCode": "762",
+    "id": 219
+  },
+  {
+    "shortName": "Tanzania, the United Republic of",
+    "frenchName": "Tanzanie (la République-Unie de)",
+    "alphaCode2": "TZ",
+    "alphaCode3": "TZA",
+    "numericCode": "834",
+    "id": 220
+  },
+  {
+    "shortName": "Thailand",
+    "frenchName": "Thaïlande (la)",
+    "alphaCode2": "TH",
+    "alphaCode3": "THA",
+    "numericCode": "764",
+    "id": 221
+  },
+  {
+    "shortName": "Timor-Leste",
+    "frenchName": "Timor-Leste (le)",
+    "alphaCode2": "TL",
+    "alphaCode3": "TLS",
+    "numericCode": "626",
+    "id": 222
+  },
+  {
+    "shortName": "Togo",
+    "frenchName": "Togo (le)",
+    "alphaCode2": "TG",
+    "alphaCode3": "TGO",
+    "numericCode": "768",
+    "id": 223
+  },
+  {
+    "shortName": "Tokelau",
+    "frenchName": "Tokelau (les)",
+    "alphaCode2": "TK",
+    "alphaCode3": "TKL",
+    "numericCode": "772",
+    "id": 224
+  },
+  {
+    "shortName": "Tonga",
+    "frenchName": "Tonga (les)",
+    "alphaCode2": "TO",
+    "alphaCode3": "TON",
+    "numericCode": "776",
+    "id": 225
+  },
+  {
+    "shortName": "Trinidad and Tobago",
+    "frenchName": "Trinité-et-Tobago (la)",
+    "alphaCode2": "TT",
+    "alphaCode3": "TTO",
+    "numericCode": "780",
+    "id": 226
+  },
+  {
+    "shortName": "Tunisia",
+    "frenchName": "Tunisie (la)",
+    "alphaCode2": "TN",
+    "alphaCode3": "TUN",
+    "numericCode": "788",
+    "id": 227
+  },
+  {
+    "shortName": "Turkmenistan",
+    "frenchName": "Turkménistan (le)",
+    "alphaCode2": "TM",
+    "alphaCode3": "TKM",
+    "numericCode": "795",
+    "id": 228
+  },
+  {
+    "shortName": "Turks and Caicos Islands (the)",
+    "frenchName": "Turks-et-Caïcos (les Îles)",
+    "alphaCode2": "TC",
+    "alphaCode3": "TCA",
+    "numericCode": "796",
+    "id": 229
+  },
+  {
+    "shortName": "Tuvalu",
+    "frenchName": "Tuvalu (les)",
+    "alphaCode2": "TV",
+    "alphaCode3": "TUV",
+    "numericCode": "798",
+    "id": 230
+  },
+  {
+    "shortName": "Türkiye",
+    "frenchName": "Türkiye (la)",
+    "alphaCode2": "TR",
+    "alphaCode3": "TUR",
+    "numericCode": "792",
+    "id": 231
+  },
+  {
+    "shortName": "Uganda",
+    "frenchName": "Ouganda (l')",
+    "alphaCode2": "UG",
+    "alphaCode3": "UGA",
+    "numericCode": "800",
+    "id": 232
+  },
+  {
+    "shortName": "Ukraine",
+    "frenchName": "Ukraine (l')",
+    "alphaCode2": "UA",
+    "alphaCode3": "UKR",
+    "numericCode": "804",
+    "id": 233
+  },
+  {
+    "shortName": "United Arab Emirates (the)",
+    "frenchName": "Émirats arabes unis (les)",
+    "alphaCode2": "AE",
+    "alphaCode3": "ARE",
+    "numericCode": "784",
+    "id": 234
+  },
+  {
+    "shortName": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "frenchName": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+    "alphaCode2": "GB",
+    "alphaCode3": "GBR",
+    "numericCode": "826",
+    "id": 235
+  },
+  {
+    "shortName": "United States Minor Outlying Islands (the)",
+    "frenchName": "Îles mineures éloignées des États-Unis (les)",
+    "alphaCode2": "UM",
+    "alphaCode3": "UMI",
+    "numericCode": "581",
+    "id": 236
+  },
+  {
+    "shortName": "United States of America (the)",
+    "frenchName": "États-Unis d'Amérique (les)",
+    "alphaCode2": "US",
+    "alphaCode3": "USA",
+    "numericCode": "840",
+    "id": 237
+  },
+  {
+    "shortName": "Uruguay",
+    "frenchName": "Uruguay (l')",
+    "alphaCode2": "UY",
+    "alphaCode3": "URY",
+    "numericCode": "858",
+    "id": 238
+  },
+  {
+    "shortName": "Uzbekistan",
+    "frenchName": "Ouzbékistan (l')",
+    "alphaCode2": "UZ",
+    "alphaCode3": "UZB",
+    "numericCode": "860",
+    "id": 239
+  },
+  {
+    "shortName": "Vanuatu",
+    "frenchName": "Vanuatu (le)",
+    "alphaCode2": "VU",
+    "alphaCode3": "VUT",
+    "numericCode": "548",
+    "id": 240
+  },
+  {
+    "shortName": "Venezuela (Bolivarian Republic of)",
+    "frenchName": "Venezuela (République bolivarienne du)",
+    "alphaCode2": "VE",
+    "alphaCode3": "VEN",
+    "numericCode": "862",
+    "id": 241
+  },
+  {
+    "shortName": "Viet Nam",
+    "frenchName": "Viet Nam (le)",
+    "alphaCode2": "VN",
+    "alphaCode3": "VNM",
+    "numericCode": "704",
+    "id": 242
+  },
+  {
+    "shortName": "Virgin Islands (British)",
+    "frenchName": "Vierges britanniques (les Îles)",
+    "alphaCode2": "VG",
+    "alphaCode3": "VGB",
+    "numericCode": "092",
+    "id": 243
+  },
+  {
+    "shortName": "Virgin Islands (U.S.)",
+    "frenchName": "Vierges des États-Unis (les Îles)",
+    "alphaCode2": "VI",
+    "alphaCode3": "VIR",
+    "numericCode": "850",
+    "id": 244
+  },
+  {
+    "shortName": "Wallis and Futuna",
+    "frenchName": "Wallis-et-Futuna",
+    "alphaCode2": "WF",
+    "alphaCode3": "WLF",
+    "numericCode": "876",
+    "id": 245
+  },
+  {
+    "shortName": "Western Sahara*",
+    "frenchName": "Sahara occidental (le)*",
+    "alphaCode2": "EH",
+    "alphaCode3": "ESH",
+    "numericCode": "732",
+    "geopoliticalEntitiesNamesCode": "WI",
+    "id": 246
+  },
+  {
+    "shortName": "Yemen",
+    "frenchName": "Yémen (le)",
+    "alphaCode2": "YE",
+    "alphaCode3": "YEM",
+    "numericCode": "887",
+    "id": 247
+  },
+  {
+    "shortName": "Zambia",
+    "frenchName": "Zambie (la)",
+    "alphaCode2": "ZM",
+    "alphaCode3": "ZMB",
+    "numericCode": "894",
+    "id": 248
+  },
+  {
+    "shortName": "Zimbabwe",
+    "frenchName": "Zimbabwe (le)",
+    "alphaCode2": "ZW",
+    "alphaCode3": "ZWE",
+    "numericCode": "716",
+    "id": 249
+  },
+  {
+    "shortName": "Åland Islands",
+    "frenchName": "Åland(les Îles)",
+    "alphaCode2": "AX",
+    "alphaCode3": "ALA",
+    "numericCode": "248",
+    "id": 250
+  }
+]
