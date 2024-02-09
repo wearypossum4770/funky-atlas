@@ -1,4 +1,4 @@
-app = "funky-atlas1-419d"
+app = "funky-atlas-419d"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
